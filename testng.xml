@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Automation Suite">
+
+    <test name="All Tests">
+        <classes>
+            <class name="com.lightwonder.qa.LoginUITest"/>
+            <class name="com.lightwonder.qa.UserAPITest"/>
+        </classes>
+    </test>
+
+</suite>
