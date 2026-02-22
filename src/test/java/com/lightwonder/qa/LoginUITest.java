@@ -7,7 +7,7 @@ public class LoginUITest {
 
     @Test(groups = "smoke")
     public void verifyLoginPageTtitle() {
-        System.out.println("Executing smoke UI  Test");
+        System.out.println("Executing Kiran's smoke UI  Test");
         Assert.assertTrue(true);
 
     }
